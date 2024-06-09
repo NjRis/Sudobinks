@@ -1,2 +1,3 @@
 # Sudobinks
 Sudoku programmed in VB.Net
+SAE IHM NGUESSAN KACHY 106, BELMOKHTAR DANYA 110, NJIKAM IRIS 106
